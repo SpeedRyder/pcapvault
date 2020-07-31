@@ -10,7 +10,7 @@ cleanup
 allows deleting pcaps from the vault based on date and time, or a full cleanup  
 
 export  
-allow exporting pcaps from the vault based on data and time  
+allow exporting pcaps from the vault based on date and time  
 can export from the vault directly in 60 second intervals, or in merged summary format
 
 external commands used  
