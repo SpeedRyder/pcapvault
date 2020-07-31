@@ -31,8 +31,8 @@ pcapvault is just a bash script, so no compiling or anything
   #edit the _TCPDUMP_INTERFACE setting to match your interface name  
   _TCPDUMP_INTERFACE="enp4s0f0"  
 
-pcapvault does not prep your interface for capture
-your interface must already be configure for capturing
+pcapvault does not prep your interface for capture  
+your interface must already be configured for capturing
 
 #once you are ready to start capturing  
 #create a vault  
